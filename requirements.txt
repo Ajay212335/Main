@@ -12,6 +12,5 @@ Pillow
 ultralytics
 deep-translator
 langdetect
-smtplib
 bson
 email
