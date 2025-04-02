@@ -1,0 +1,17 @@
+Flask
+flask-cors
+pymongo
+werkzeug
+jwt
+datetime
+flask-mail
+requests
+torch
+torchvision
+Pillow
+ultralytics
+deep-translator
+langdetect
+smtplib
+bson
+email
